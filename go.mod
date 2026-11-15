@@ -5,7 +5,7 @@ go 1.26.0
 require (
 	github.com/disgoorg/disgo v0.20.0
 	github.com/disgoorg/snowflake/v2 v2.0.3
-	github.com/jackc/pgx/v5 v5.12.0
+	github.com/jackc/pgx/v5 v5.13.0
 	golang.org/x/time v0.16.0
 )
 
